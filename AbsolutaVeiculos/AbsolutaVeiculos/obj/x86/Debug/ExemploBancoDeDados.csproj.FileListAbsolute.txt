@@ -1,0 +1,48 @@
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.exe
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.pdb
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.FrmPrincipal.resources
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.Properties.Resources.resources
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.exe
+C:\Users\CPD\Documents\Visual Studio 2010\Projects\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.pdb
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.exe
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.pdb
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.exe
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.pdb
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.FrmPrincipal.resources
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.Properties.Resources.resources
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programação\Visual Studio\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.exe
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.pdb
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.exe
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.pdb
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.FrmPrincipal.resources
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.Properties.Resources.resources
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\CPD\Downloads\ExemploBancoDeDados\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.exe
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.pdb
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.exe
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.pdb
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.FrmPrincipal.resources
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.Properties.Resources.resources
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Programação\Visual Studio\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.exe
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.pdb
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.exe
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\bin\Debug\ExemploBancoDeDados.pdb
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.Properties.Resources.resources
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.FrmFotos.resources
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.FrmInicio.resources
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.FrmCliente.resources
+C:\DRIKA\ExemploBancoDeDadosAccess\ExemploBancoDeDadosAccess\ExemploBancoDeDados\obj\x86\Debug\ExemploBancoDeDados.Form1.resources
