@@ -1,0 +1,4 @@
+D:\Csharp\livroDeitelCSharp\Interface\Interface\bin\Debug\Interface.exe
+D:\Csharp\livroDeitelCSharp\Interface\Interface\bin\Debug\Interface.pdb
+D:\Csharp\livroDeitelCSharp\Interface\Interface\obj\x86\Debug\Interface.exe
+D:\Csharp\livroDeitelCSharp\Interface\Interface\obj\x86\Debug\Interface.pdb
