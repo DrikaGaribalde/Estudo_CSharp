@@ -1,0 +1,4 @@
+D:\Csharp\livroDeitelCSharp\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe
+D:\Csharp\livroDeitelCSharp\ClassesAbstratas\ClassesAbstratas\bin\Debug\ClassesAbstratas.pdb
+D:\Csharp\livroDeitelCSharp\ClassesAbstratas\ClassesAbstratas\obj\x86\Debug\ClassesAbstratas.exe
+D:\Csharp\livroDeitelCSharp\ClassesAbstratas\ClassesAbstratas\obj\x86\Debug\ClassesAbstratas.pdb
