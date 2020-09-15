@@ -1,0 +1,4 @@
+D:\git\Trabalho_CSharp\Properties\Properties\bin\Debug\Properties.exe
+D:\git\Trabalho_CSharp\Properties\Properties\bin\Debug\Properties.pdb
+D:\git\Trabalho_CSharp\Properties\Properties\obj\x86\Debug\Properties.exe
+D:\git\Trabalho_CSharp\Properties\Properties\obj\x86\Debug\Properties.pdb
