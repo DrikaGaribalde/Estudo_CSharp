@@ -1,0 +1,5 @@
+D:\AluraCursos\CursoCSharp\ByteBank3\ByteBank3\bin\Debug\ByteBank3.exe
+D:\AluraCursos\CursoCSharp\ByteBank3\ByteBank3\bin\Debug\ByteBank3.pdb
+D:\AluraCursos\CursoCSharp\ByteBank3\ByteBank3\obj\x86\Debug\ByteBank3.exe
+D:\AluraCursos\CursoCSharp\ByteBank3\ByteBank3\obj\x86\Debug\ByteBank3.pdb
+D:\AluraCursos\CursoCSharp\ByteBank3\ByteBank3\obj\x86\Debug\ByteBank3.csprojResolveAssemblyReference.cache
