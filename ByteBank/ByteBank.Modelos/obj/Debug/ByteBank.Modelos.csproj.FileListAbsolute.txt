@@ -1,5 +1,0 @@
-D:\AluraCursos\CursoCSharp\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
-D:\AluraCursos\CursoCSharp\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
-D:\AluraCursos\CursoCSharp\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
-D:\AluraCursos\CursoCSharp\ByteBank\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
-D:\AluraCursos\CursoCSharp\ByteBank\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.XML
